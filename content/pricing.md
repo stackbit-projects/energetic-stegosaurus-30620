@@ -43,7 +43,7 @@ sections:
             style: primary
       - title: Enterprise
         subtitle: Per grandi attività
-        price: lorem-ipsum
+        price: 1500 € + 800€/anno
         details: >-
           ## Lorem ipsum
 

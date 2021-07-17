@@ -22,8 +22,8 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          Il cliente prende paga la sua ordinazione e riceve uno scontrino con
-          un numero identificativo dell'ordine
+          Il cliente paga la sua ordinazione e riceve uno scontrino con un
+          numero identificativo dell'ordine
         actions: []
       - title: 2. Il cliente inquadra il QR code
         content: >

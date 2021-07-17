@@ -18,7 +18,7 @@ sections:
     title: Come funziona
     subtitle: Un codice QR identifica univocamente il tavolo
     features:
-      - title: The Best Feature of Your Services
+      - title: 1. Il cliente prende lo scontrino
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-

@@ -37,10 +37,9 @@ sections:
       - title: 2. Il cliente scrive il codice dello scontrino
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Una volta aperto il link del QR code, il cliente inserirà il codice
+          presente sullo scontrino.
         actions: []
       - title: 4. Tu ricevi in tempo reale l'associazione tra scontrino e tavol
         content: >

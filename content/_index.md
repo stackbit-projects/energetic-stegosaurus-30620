@@ -37,7 +37,7 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
-          Una volta aperto il link del QR code, il cliente inserirà il codice
+          Una volta aperto il link del QR code, il cliente inserisce il codice
           presente sullo scontrino.
         actions: []
       - title: 4. Tu ricevi in tempo reale l'associazione tra scontrino e tavol

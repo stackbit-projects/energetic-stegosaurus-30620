@@ -19,7 +19,7 @@ sections:
             url: /signup
             style: secondary
       - title: Professional
-        subtitle: For medium-sized businesses
+        subtitle: Per medie attività
         price: 900 € + 500€/anno
         details: |-
           * Curabitur non nunc mollis

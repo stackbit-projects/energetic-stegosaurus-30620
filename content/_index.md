@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: QR Tavolo
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      QR Tavolo è la soluzione immediata per il servizio ai tavoli.
     actions:
       - label: Learn More
         url: /features

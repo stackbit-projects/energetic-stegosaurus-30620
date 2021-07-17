@@ -42,7 +42,7 @@ sections:
             url: /signup
             style: primary
       - title: Enterprise
-        subtitle: lorem-ipsum
+        subtitle: Per grandi attività
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum

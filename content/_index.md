@@ -3,7 +3,7 @@ title: QR Tavolo
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/Esplicativo.jpg
     image_alt: App preview
     title: QR Tavolo
     content: |

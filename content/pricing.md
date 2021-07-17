@@ -20,7 +20,7 @@ sections:
             style: secondary
       - title: Professional
         subtitle: For medium-sized businesses
-        price: '900'
+        price: 900 € + 500€/anno
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor

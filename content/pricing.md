@@ -44,17 +44,21 @@ sections:
       - title: Enterprise
         subtitle: Per grandi attività
         price: 1500 € + 800€/anno
-        details: >-
-          ## Lorem ipsum
+        details: >
+          *   Servizio di gestione completa dei tavoli
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Hosting incluso online
 
 
-          - Lorem ipsum
+          *   Assistenza annuale e aggiornamenti
 
-          - dolor sit amet
+
+          *   App Android inclusa per gestione sia online che tramite
+          smartphone/tablet
+
+
+          *   Rimozione del logo QR Tavolo dai QR stampati
         highlight: false
         actions: []
         type: pricing_plan

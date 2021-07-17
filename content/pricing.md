@@ -58,6 +58,9 @@ sections:
           smartphone/tablet
 
 
+          *   Personalizzazione colore QR code
+
+
           *   Rimozione del logo QR Tavolo dai QR stampati
         highlight: false
         actions:

@@ -40,7 +40,7 @@ sections:
           Una volta aperto il link del QR code, il cliente inserisce il codice
           presente sullo scontrino.
         actions: []
-      - title: 4. Tu ricevi in tempo reale l'associazione tra scontrino e tavol
+      - title: 4. Tu ricevi in tempo reale l'associazione tra scontrino e tavolo
         content: >
           Riceverai in tempo reale la corrispondenza tra scontrini e tavoli su
           una tabella di facile lettura per velocizzare il servizio ai tavoli

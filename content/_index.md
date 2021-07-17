@@ -9,9 +9,7 @@ sections:
     content: |
       QR Tavolo è la soluzione immediata per il servizio ai tavoli.
 
-
-
-      Be clever, be smart
+      Be clever, be smart...
     actions:
       - label: Più informazioni
         url: /features

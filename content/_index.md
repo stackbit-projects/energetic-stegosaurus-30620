@@ -32,20 +32,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: 2. Il cliente sceglie il tavolo e scansiona il QR Code del tavolo
-        image: images/feature2.png
-        image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
       - title: 3. Il cliente scrive il codice dello scontrino
         image: images/feature3.png
         image_alt: App user profile preview

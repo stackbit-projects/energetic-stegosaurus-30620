@@ -3,7 +3,7 @@ title: QR Tavolo
 sections:
   - section_id: hero
     type: section_hero
-    image: images/maroon-stegosaurus.png
+    image: images/output (41).png
     image_alt: App preview
     title: QR Tavolo
     content: |

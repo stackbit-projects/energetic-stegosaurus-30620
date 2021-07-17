@@ -22,7 +22,7 @@ sections:
             style: secondary
       - title: Professional
         subtitle: Per medie attività
-        price: 900 € + 500€/anno
+        price: 900€ + 500€/anno
         details: >+
           *   Servizio di gestione completa dei tavoli
 

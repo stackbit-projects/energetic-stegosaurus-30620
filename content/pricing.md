@@ -10,11 +10,10 @@ sections:
       - title: Basic
         subtitle: Per piccole attività
         price: 1600 €
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: |
+          *   Servizio completo di gestione dei tavoli
+          *   Hosting del servizio online
+          *   Nessun costo aggiuntivo
         actions:
           - label: Order Now
             url: /signup

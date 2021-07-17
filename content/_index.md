@@ -16,7 +16,7 @@ sections:
     type: section_features
     background: gray
     title: Come funziona
-    subtitle: Un codice QR identifica univocamente il tavol
+    subtitle: Un codice QR identifica univocamente il tavolo
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png

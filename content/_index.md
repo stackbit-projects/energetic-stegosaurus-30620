@@ -105,7 +105,7 @@ sections:
       Inizia a velocizzare il servizio al tavolo con un servizio immediato ed
       economic
     actions:
-      - label: Get Started
+      - label: Contattaci
         url: /signup
         style: primary
   - section_id: recent-posts

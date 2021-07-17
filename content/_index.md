@@ -46,7 +46,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Il cliente scrive il numero dello scontrino
+      - title: 3. Il cliente scrive il numero dello scontrino
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-

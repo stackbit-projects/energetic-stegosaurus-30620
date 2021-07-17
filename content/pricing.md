@@ -12,7 +12,9 @@ sections:
         price: 1600 €
         details: |
           *   Servizio completo di gestione dei tavoli
+
           *   Hosting del servizio online
+
           *   Nessun costo aggiuntivo
         actions:
           - label: Order Now

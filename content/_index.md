@@ -54,7 +54,7 @@ sections:
     title: Inizia a risparmiare tempo e denaro e a soddisfare i tuoi clienti
     subtitle: >-
       Inizia a velocizzare il servizio al tavolo con un servizio immediato ed
-      economic
+      economico
     actions:
       - label: Contattaci
         url: /signup

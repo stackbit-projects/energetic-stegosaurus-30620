@@ -26,7 +26,7 @@ sections:
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
         actions: []
-      - title: lorem-ipsum
+      - title: 2. Il cliente inquadra il QR code
         content: >-
           ## Lorem ipsum
 

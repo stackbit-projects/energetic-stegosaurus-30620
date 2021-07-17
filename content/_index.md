@@ -26,7 +26,7 @@ sections:
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
         actions: []
-      - title: 3. Il cliente scrive il codice dello scontrino
+      - title: 2. Il cliente scrive il codice dello scontrino
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-

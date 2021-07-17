@@ -21,10 +21,9 @@ sections:
       - title: 1. Il cliente prende lo scontrino in cassa
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Il cliente prende paga la sua ordinazione e riceve uno scontrino con
+          un numero identificativo dell'ordine
         actions: []
       - title: 2. Il cliente inquadra il QR code
         content: >

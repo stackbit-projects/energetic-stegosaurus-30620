@@ -61,17 +61,12 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: 4. Tu ricevi in tempo reale l'associazione tra scontrino e tavol
-        content: >-
+        content: >
           ## Lorem ipsum
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         image_alt: lorem-ipsum
         actions: []
         type: feature_item

@@ -60,7 +60,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: lorem-ipsum
+      - title: 4. Tu ricevi in tempo reale l'associazione tra scontrino e tavol
         content: >-
           ## Lorem ipsum
 

@@ -27,17 +27,9 @@ sections:
           consequat ex.
         actions: []
       - title: 2. Il cliente inquadra il QR code
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Il cliente sceglierà il proprio tavolo inquadrando il QR code sul
+          tavolo
         image_alt: lorem-ipsum
         actions: []
         type: feature_item

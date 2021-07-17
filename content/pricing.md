@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Basic
         subtitle: Per piccole attività
-        price: 1600 €
+        price: 1600€
         details: |
           *   Servizio completo di gestione dei tavoli
 

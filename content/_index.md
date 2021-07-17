@@ -9,7 +9,7 @@ sections:
     content: |
       QR Tavolo è la soluzione immediata per il servizio ai tavoli.
     actions:
-      - label: Learn More
+      - label: Più informazioni
         url: /features
         style: primary
   - section_id: features

@@ -101,7 +101,9 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Inizia a risparmiare tempo e denaro
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      Inizia a velocizzare il servizio al tavolo con un servizio immediato ed
+      economic
     actions:
       - label: Get Started
         url: /signup

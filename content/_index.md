@@ -51,7 +51,7 @@ sections:
         image: images/10.jpg
   - section_id: call-to-action
     type: section_cta
-    title: Inizia a risparmiare tempo e denaro
+    title: Inizia a risparmiare tempo e denaro e a soddisfare i tuoi clienti
     subtitle: >-
       Inizia a velocizzare il servizio al tavolo con un servizio immediato ed
       economic

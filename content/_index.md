@@ -43,11 +43,8 @@ sections:
         actions: []
       - title: 4. Tu ricevi in tempo reale l'associazione tra scontrino e tavol
         content: >
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Riceverai in tempo reale la corrispondenza tra scontrini e tavoli per
+          velocizzare il servizio ai tavoli
         image_alt: lorem-ipsum
         actions: []
         type: feature_item

@@ -16,9 +16,7 @@ sections:
     type: section_features
     background: gray
     title: Come funziona
-    subtitle: >-
-      Il cliente prende lo scontrino, sceglie il tavolo e scansiona il QR code
-      del tavolo
+    subtitle: Un codice QR identifica univocamente il tavol
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png

@@ -43,8 +43,8 @@ sections:
         actions: []
       - title: 4. Tu ricevi in tempo reale l'associazione tra scontrino e tavol
         content: >
-          Riceverai in tempo reale la corrispondenza tra scontrini e tavoli per
-          velocizzare il servizio ai tavoli
+          Riceverai in tempo reale la corrispondenza tra scontrini e tavoli su
+          una tabella di facile lettura per velocizzare il servizio ai tavoli
         image_alt: lorem-ipsum
         actions: []
         type: feature_item

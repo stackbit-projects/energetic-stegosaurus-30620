@@ -60,7 +60,16 @@ sections:
 
           *   Rimozione del logo QR Tavolo dai QR stampati
         highlight: false
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
         type: pricing_plan
 seo:
   title: Pricing

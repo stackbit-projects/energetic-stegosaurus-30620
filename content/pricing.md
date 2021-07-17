@@ -41,6 +41,12 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    pricing_plans: []
+    type: section_pricing
   - section_id: faq
     type: section_faq
     background: gray

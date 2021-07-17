@@ -11,11 +11,11 @@ sections:
         subtitle: Per piccole attività
         price: 1600€
         details: |
-          *   Servizio completo di gestione dei tavoli
+          1.  Servizio completo di gestione dei tavoli
 
-          *   Hosting del servizio online
+          2.  Hosting del servizio online
 
-          *   Nessun costo aggiuntivo
+          3.  Nessun costo aggiuntivo
         actions:
           - label: Order Now
             url: /signup

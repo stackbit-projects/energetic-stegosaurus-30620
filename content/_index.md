@@ -17,8 +17,8 @@ sections:
     background: gray
     title: Come funziona
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Il cliente prende lo scontrino, sceglie il tavolo e scansiona il QR code
+      del tavolo
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png

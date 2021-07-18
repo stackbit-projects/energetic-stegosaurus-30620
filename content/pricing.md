@@ -23,7 +23,7 @@ sections:
       - title: Professional
         subtitle: Per medie attività
         price: 900€ + 500€/anno
-        details: >+
+        details: >
           *   Servizio di gestione completa dei tavoli
 
 
@@ -33,9 +33,8 @@ sections:
           *   Assistenza annuale e aggiornamenti
 
 
-          *   App android inclusa per gestione sia online che tramite
+          *   App Android inclusa per gestione sia online che tramite
           smartphone/tablet
-
         highlight: true
         actions:
           - label: Order Now

@@ -35,7 +35,7 @@ sections:
         actions: []
         type: feature_item
         image: images/review3.jpg
-      - title: 2. Il cliente scrive il codice dello scontrino
+      - title: 3. Il cliente scrive il codice dello scontrino
         image: images/feature3.png
         image_alt: App user profile preview
         content: >

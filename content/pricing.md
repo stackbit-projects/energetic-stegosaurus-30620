@@ -37,7 +37,7 @@ sections:
           smartphone/tablet
         highlight: true
         actions:
-          - label: Order Now
+          - label: Scegli questo
             url: /signup
             style: primary
       - title: Enterprise

@@ -11,7 +11,7 @@ sections:
         subtitle: Per piccole attività
         price: 1600€
         details: |
-          1.  Servizio completo di gestione dei tavoli
+          1.  Web app completo di gestione dei tavoli
 
           2.  Hosting del servizio online
 

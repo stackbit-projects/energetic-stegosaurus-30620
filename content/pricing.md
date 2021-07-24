@@ -60,7 +60,7 @@ sections:
           *   Personalizzazione colore QR code
 
 
-          *   Rimozione del logo QR Tavolo dai QR stampati
+          *   Rimozione del logo "QR Tavolo" dai QR stampati
         highlight: false
         actions:
           - label: Scegli questo

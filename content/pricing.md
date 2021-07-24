@@ -17,7 +17,7 @@ sections:
 
           3.  Nessun costo aggiuntivo
         actions:
-          - label: Order Now
+          - label: Scegli questo
             url: /signup
             style: secondary
       - title: Professional

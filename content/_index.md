@@ -21,7 +21,7 @@ sections:
     subtitle: Un codice QR identifica univocamente il tavolo
     features:
       - title: 1. Il cliente prende lo scontrino in cassa
-        image: images/feature1.png
+        image: images/scontrino.jpg
         image_alt: App preview on a phone and tablet
         content: >
           Il cliente paga la sua ordinazione e riceve uno scontrino con un

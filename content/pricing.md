@@ -42,7 +42,7 @@ sections:
             style: primary
       - title: Enterprise
         subtitle: Per grandi attività
-        price: 1500 € + 800€/anno
+        price: 100 € + 800€/anno
         details: >
           *   Servizio di gestione completa dei tavoli
 

@@ -27,7 +27,7 @@ sections:
           Il cliente paga la sua ordinazione e riceve uno scontrino con un
           numero identificativo dell'ordine
         actions: []
-      - title: 2. Il cliente inquadra il QR code
+      - title: 2. Il cliente inquadra il QR code sul tavolo
         content: >
           Il cliente sceglierà il proprio tavolo inquadrando il QR code sul
           tavolo
